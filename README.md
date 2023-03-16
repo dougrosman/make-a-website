@@ -14,11 +14,10 @@ Workshop hosted by the SAIC Coding Club, led by Doug Rosman
    4. [Neocities](https://neocities.org/)
    5. [HTML Energy](https://html.energy/)
 3. What website do you want to make?
-   1. Set timer
-   2. Find some images and gifs
+   1. Find some images and gifs
       1. Gifs (https://gifcities.org/)
       2. AI-generated
-   3. Come up with a c00l name for your site.
+   2. Come up with a c00l name for your site.
 4. Set up tools
    1. GitHub
       1. Create a new repository
