@@ -15,7 +15,7 @@ Workshop hosted by the SAIC Coding Club, led by Doug Rosman
    5. [HTML Energy](https://html.energy/)
 3. What website do you want to make?
    1. Find some images and gifs
-      1. Gifs (https://gifcities.org/)
+      1. Gifs [https://gifcities.org/](https://gifcities.org/)
       2. AI-generated
    2. Come up with a c00l name for your site.
 4. Set up tools
@@ -48,7 +48,7 @@ Workshop hosted by the SAIC Coding Club, led by Doug Rosman
    2. Add some style (CSS)
       1. Talk about in-document style (`<style>` tags in the `<head>` first)
       2. Make a file called `style.css`
-   3. Custom Fonts! https://fonts.google.com
+   3. Custom Fonts! [https://fonts.google.com](https://fonts.google.com)
    4. Favicons! [https://favicon.io/](https://favicon.io/)
 7. Practice on your own!
    1. [freeCodeCamp.org](https://www.freecodecamp.org/)
